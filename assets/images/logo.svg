@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1840 540">
+<defs><style>.a{fill:#fed450;}.b{font-size:227px;font-family:Comfortaa;letter-spacing:0.1em;}.b,.d{font-weight:700;}.c{font-size:175px;font-weight:300;}.e{fill:#fff;}</style>
+</defs>
+<g transform="translate(0,0)">
+<path class="a" d="M233.718,25.7a59.788,59.788,0,0,1,70.564,0L502.759,170.628a60.411,60.411,0,0,1,21.785,67.354L448.717,472.529a60.026,60.026,0,0,1-57.067,41.651H146.35a60.026,60.026,0,0,1-57.067-41.651L13.456,237.983a60.411,60.411,0,0,1,21.785-67.354Z" transform="translate(-10.519 -14.181)"/>
+</g>
+<text class="b" transform="translate(300,220)">
+<tspan x="0" y="0">Captiosus</tspan>
+<tspan class="c">
+<tspan x="0" y="249">Techno</tspan>
+<tspan class="d" y="249">labs</tspan>
+</tspan>
+</text>
+<path class="e" d="M79.371,19.179a45,45,0,0,1,52.859,0l52.883,38.376A45,45,0,0,1,201.476,107.9L181.3,169.921A45,45,0,0,1,138.506,201H73.094A45,45,0,0,1,30.3,169.921L10.124,107.9A45,45,0,0,1,26.487,57.554Z" transform="matrix(1, 0.017, -0.017, 1, 67.407, 143.199)"/>
+</svg>
