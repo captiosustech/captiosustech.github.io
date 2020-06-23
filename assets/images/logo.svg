@@ -1,15 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1840 540">
-<defs><style>.a{fill:#fed450;}.b{font-size:227px;font-family:Comfortaa;letter-spacing:0.1em;}.b,.d{font-weight:700;}.c{font-size:175px;font-weight:300;}.e{fill:#fff;}</style>
-</defs>
-<g transform="translate(0,0)">
-<path class="a" d="M233.718,25.7a59.788,59.788,0,0,1,70.564,0L502.759,170.628a60.411,60.411,0,0,1,21.785,67.354L448.717,472.529a60.026,60.026,0,0,1-57.067,41.651H146.35a60.026,60.026,0,0,1-57.067-41.651L13.456,237.983a60.411,60.411,0,0,1,21.785-67.354Z" transform="translate(-10.519 -14.181)"/>
-</g>
-<text class="b" transform="translate(300,220)">
-<tspan x="0" y="0">Captiosus</tspan>
-<tspan class="c">
-<tspan x="0" y="249">Techno</tspan>
-<tspan class="d" y="249">labs</tspan>
-</tspan>
-</text>
-<path class="e" d="M79.371,19.179a45,45,0,0,1,52.859,0l52.883,38.376A45,45,0,0,1,201.476,107.9L181.3,169.921A45,45,0,0,1,138.506,201H73.094A45,45,0,0,1,30.3,169.921L10.124,107.9A45,45,0,0,1,26.487,57.554Z" transform="matrix(1, 0.017, -0.017, 1, 67.407, 143.199)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="794" height="268" viewBox="0 0 794 268">
+    <defs>
+        <style>
+            .a {
+                fill: url('#a');
+            }
+            .b {
+                font-size: 61.83px;
+                letter-spacing: 0.37em;
+                baseline-shift: -35.329799801208296;
+            }
+            .b,
+            .c {
+                font-family: Comfortaa;
+            }
+            .c {
+                font-size: 111px;
+                font-weight: 700;
+            }
+            .d {
+                filter:url(#n);
+            }
+            .e {
+                filter:url(#k);
+            }
+            .f {
+                filter:url(#h);
+            }
+            .g {
+                filter:url(#e);
+            }
+            .h {
+                filter:url(#b);
+            }
+        </style>
+        <linearGradient id="a" x1="0.5" y1="1" x2="0.5" y2="0.146" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#001463"/><stop offset="1" stop-color="#1242ff"/></linearGradient>
+        <filter id="b" x="51.985" y="89.484" width="160" height="163" filterUnits="userSpaceOnUse"><feOffset input="SourceAlpha"/><feGaussianBlur stdDeviation="5" result="c"/><feFlood flood-opacity="0.161"/><feComposite operator="in" in2="c"/><feComposite in="SourceGraphic"/></filter>
+        <filter id="e" x="0" y="52" width="215.969" height="215.969" filterUnits="userSpaceOnUse"><feOffset input="SourceAlpha"/><feGaussianBlur stdDeviation="5" result="f"/><feFlood flood-opacity="0.161"/><feComposite operator="in" in2="f"/><feComposite in="SourceGraphic"/></filter>
+        <filter id="h" x="16.485" y="55.984" width="163" height="160" filterUnits="userSpaceOnUse"><feOffset input="SourceAlpha"/><feGaussianBlur stdDeviation="5" result="i"/><feFlood flood-opacity="0.161"/><feComposite operator="in" in2="i"/><feComposite in="SourceGraphic"/></filter>
+        <filter id="k" x="0" y="0" width="215.969" height="215.969" filterUnits="userSpaceOnUse"><feOffset input="SourceAlpha"/><feGaussianBlur stdDeviation="5" result="l"/><feFlood flood-opacity="0.161"/><feComposite operator="in" in2="l"/><feComposite in="SourceGraphic"/></filter>
+        <filter id="n" x="61.391" y="15.484" width="143.186" height="145.116" filterUnits="userSpaceOnUse"><feOffset input="SourceAlpha"/><feGaussianBlur stdDeviation="5" result="o"/><feFlood flood-opacity="0.161"/><feComposite operator="in" in2="o"/><feComposite in="SourceGraphic"/></filter>
+    </defs>
+    <g transform="translate(-326 -566)">
+        <g class="h" transform="matrix(1, 0, 0, 1, 326, 566)"><path class="a" d="M52.422,25.737a14,14,0,0,1,25.156,0l42.575,87.116A14,14,0,0,1,107.575,133H22.425A14,14,0,0,1,9.846,112.853Z" transform="translate(66.98 104.48)"/></g>
+        <g class="g" transform="matrix(1, 0, 0, 1, 326, 566)"><path class="a" d="M52.422,25.737a14,14,0,0,1,25.156,0l42.575,87.116A14,14,0,0,1,107.575,133H22.425A14,14,0,0,1,9.846,112.853Z" transform="translate(109.05 67) rotate(45)"/></g>
+        <g class="f" transform="matrix(1, 0, 0, 1, 326, 566)"><path class="a" d="M52.422,25.737a14,14,0,0,1,25.156,0l42.575,87.116A14,14,0,0,1,107.575,133H22.425A14,14,0,0,1,9.846,112.853Z" transform="translate(164.48 70.98) rotate(90)"/></g>
+        <g class="e" transform="matrix(1, 0, 0, 1, 326, 566)"><path class="a" d="M52.422,25.737a14,14,0,0,1,25.156,0l42.575,87.116A14,14,0,0,1,107.575,133H22.425A14,14,0,0,1,9.846,112.853Z" transform="translate(200.97 109.05) rotate(135)"/></g>
+        <g class="d" transform="matrix(1, 0, 0, 1, 326, 566)"><path class="a" d="M52.422,25.737a14,14,0,0,1,25.156,0l42.575,87.116A14,14,0,0,1,107.575,133H22.425A14,14,0,0,1,9.846,112.853Z" transform="translate(197.98 163.48) rotate(180)"/></g>
+        <g transform="translate(239.985 -136.516)">
+            <text class="c" transform="translate(276 831)">
+                <tspan x="0" y="0">Captiosus</tspan>
+            </text>
+        </g>
+        <text class="b" transform="translate(524 783)">
+            <tspan x="0" y="0">Technolabs</tspan>
+        </text>
+    </g>
 </svg>
